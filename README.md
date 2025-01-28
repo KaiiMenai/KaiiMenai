@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiiMenai - Kyra 
 - 👀 I’m interested in learning new skills!
-- 🌱 I’m currently learning how to use power BI, and further develop my R Studio skills.
+- 🌱 I’m currently learning how to use power BI, and further develop my R Studio and Python skills.
 - 📫 I’m looking to imporove my data analytics skills.
 
 <!---
