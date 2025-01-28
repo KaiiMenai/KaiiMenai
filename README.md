@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaiiMenai - Kyra Menai Hamilton
 - 👀 I’m interested in learning new skills!
 - 🌱 I’m currently learning how to use power BI, and further develop my R Studio skills.
-- 💞️ I’m looking to collaborate on imporoving science communication.
+- 💞️ I’m looking to imporove my data analytics skills.
 - 📫 How to reach me kyra.menai.hamilton@outlook.com
 
 <!---
