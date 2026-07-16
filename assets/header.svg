@@ -1,0 +1,22 @@
+<svg
+    width="900"
+    height="420"
+    viewBox="0 0 900 420"
+    xmlns="http://www.w3.org/2000/svg">
+
+  <rect
+    x="0"
+    y="0"
+    width="900"
+    height="420"
+    rx="12"
+    fill="#0d1117"/>
+  
+  <rect
+    x="0"
+    y="0"
+    width="900"
+    height="42"
+    rx="12"
+    fill="#161b22"/>
+</svg>
