@@ -4,6 +4,41 @@
     viewBox="0 0 900 420"
     xmlns="http://www.w3.org/2000/svg">
 
+    <style>
+
+.background {
+    fill:#0d1117;
+}
+
+.titlebar {
+    fill:#161b22;
+}
+
+.text {
+    fill:#c9d1d9;
+    font-family:Consolas, Monaco, monospace;
+    font-size:22px;
+}
+
+.prompt {
+    fill:#58a6ff;
+    font-family:Consolas, Monaco, monospace;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.comment {
+    fill:#8b949e;
+    font-family:Consolas, Monaco, monospace;
+    font-size:18px;
+}
+
+.cursor {
+    fill:#58a6ff;
+}
+
+</style>
+    
   <rect
     x="0"
     y="0"
@@ -12,11 +47,71 @@
     rx="12"
     fill="#0d1117"/>
   
-  <rect
+<!-- Window -->
+
+<rect
+    class="background"
     x="0"
     y="0"
     width="900"
-    height="42"
-    rx="12"
-    fill="#161b22"/>
+    height="420"
+    rx="14"/>
+
+<!-- Title Bar -->
+
+<rect
+    class="titlebar"
+    x="0"
+    y="0"
+    width="900"
+    height="46"/>
+
+<!-- Rounded top -->
+
+<rect
+    class="titlebar"
+    x="0"
+    y="0"
+    width="900"
+    height="20"
+    rx="14"/>
+
+<circle cx="28" cy="23" r="7" fill="#ff5f57"/>
+<circle cx="52" cy="23" r="7" fill="#febc2e"/>
+<circle cx="76" cy="23" r="7" fill="#28c840"/>
+
+    <text
+    x="450"
+    y="29"
+    text-anchor="middle"
+    class="comment">
+
+kyra@github:~$
+
+</text>
+    
+    <text x="40" y="90" class="prompt">
+
+kyra@github:~$
+
+</text>
+
+<text x="250" y="90" class="text">
+
+./whoami
+
+</text>
+    <text x="40" y="140" class="text">
+Scientist.
+</text>
+
+<text x="40" y="175" class="text">
+Data enthusiast.
+</text>
+
+<text x="40" y="210" class="text">
+Professional rabbit-hole explorer.
+</text>
+    
+    
 </svg>
